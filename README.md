@@ -1,4 +1,3 @@
-
 Enhanced the CRUD application by adding user
 authentication and authorization features.
 Implemented user registration, login, and session
